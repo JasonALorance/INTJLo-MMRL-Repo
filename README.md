@@ -1,8 +1,5 @@
 # Template Magisk Modules Repository
 
-> [!IMPORTANT]
-> Do not fork this repository if you want to create your own Magisk Modules Repository, use the **Use this template** button instead
-
 A template repository to generate your own Magisk Modules Repository
 
 ## Directory and File Overview:
